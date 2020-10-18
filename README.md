@@ -1,5 +1,5 @@
 # bootstrap-template
-Bootstrap template 
+A Bootstrap template
 ![](images/image-1.png)
 ![](images/image-2.png)
 ![](images/image-3.png)
